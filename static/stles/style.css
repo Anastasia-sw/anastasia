@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(90deg, #734C2A 0%, #fff 100%);
+}
+
+p{
+    font-size: 20px;
+    margin: 50 px;
+}
+a:link {
+    color: blue;
+    font-size: 30px;
+  }
+  
+  /* visited link */
+a:visited {
+    color: hotpink;
+  }
+
+.header{
+    text-align: left;
+}
+
+.ph1{
+    display: inline-block;
+    text-align:center ;
+   
+    margin: 6px;
+
+}
+.red {
+    font-size: 20px;
+}
+.ph1>img{
+    width: 240px;
+    height: 240px;
+    border-radius: 10px;
+    
+}
+
+
+
+.redi-photo{
+    width: 100%;
+}
